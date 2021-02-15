@@ -14,8 +14,6 @@
         <string>https://le-www-live-s.legocdn.com/downloads/WeDo2</string>
         <key>SEARCH_PATTERN</key>
         <string>(WeDo2_Full_[\d.]+_Global_OSX.pkg)</string>
-        <key>SEARCH_URL</key>
-        <string>https://education.lego.com/en-us/downloads/wedo-2/software</string>
         <key>DESCRIPTION</key>
 		<string>LEGO WeDo is a robotics hardware and software platform specifically designed for Kindergarten to Grade 2 students.</string>
 		<key>CATEGORY</key>

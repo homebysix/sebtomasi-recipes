@@ -10,8 +10,6 @@
         <dict>
             <key>NAME</key>
             <string>Bayam</string>
-            <key>SEARCH_URL</key>
-            <string>https://bayam.tv/fr/telechargements</string>
             <key>SEARCH_PATTERN</key>
             <string>(https://.*/desktop/mac/Bayam.dmg)</string>
         </dict>

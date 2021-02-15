@@ -16,8 +16,6 @@
         <string>en-US</string>
         <key>SEARCH_PATTERN</key>
         <string>(LME-Scratch_Full-setup_[\d.]+_%LANGUAGE_CODE%_MacOS.dmg)</string>
-        <key>SEARCH_URL</key>
-        <string>https://education.lego.com/en-us/downloads/mindstorms-ev3/software</string>
         <key>DESCRIPTION</key>
 		<string>LEGO MINDSTORMS EV3 makes building, programming and commanding your own LEGO robots smarter, faster, and more fun than ever.</string>
 		<key>CATEGORY</key>

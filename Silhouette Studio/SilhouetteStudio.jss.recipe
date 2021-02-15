@@ -10,8 +10,6 @@
         <dict>
             <key>NAME</key>
             <string>Silhouette Studio</string>
-            <key>SEARCH_URL</key>
-            <string>http://silhouettefr.fr/silhouette_logiciel.html</string>
             <key>DL_URL</key>
             <string>http://silhouettefr.fr/file</string>
             <key>SEARCH_PATTERN</key>

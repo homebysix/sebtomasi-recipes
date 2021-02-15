@@ -12,8 +12,6 @@
             <string>Lego WeDo</string>
             <key>DL_URL</key>
             <string>https://le-www-live-s.legocdn.com/downloads/WeDo2</string>
-            <key>SEARCH_PATTERN</key>
-            <string>(WeDo2_Full_[\d.]+_Global_OSX.pkg)</string>
         </dict>
         <key>MinimumVersion</key>
         <string>0.2.3</string>

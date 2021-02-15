@@ -14,8 +14,6 @@
             <string>https://le-www-live-s.legocdn.com/downloads/LME-Scratch</string>
             <key>LANGUAGE_CODE</key>
             <string>en-US</string>
-            <key>SEARCH_PATTERN</key>
-            <string>(LME-Scratch_Full-setup_[\d.]+_%LANGUAGE_CODE%_MacOS.dmg)</string>
         </dict>
         <key>MinimumVersion</key>
         <string>0.2.3</string>
